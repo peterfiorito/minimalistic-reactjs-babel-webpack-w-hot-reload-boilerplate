@@ -1,5 +1,3 @@
-const { defaults } = require('jest-config');
-
 module.exports = {
     moduleFileExtensions: ["js", "json", "jsx"],
     testMatch: ['**/__tests__/**/*.js?(x)', '**/?(*.)+(spec|test).(js|jsx)'],
